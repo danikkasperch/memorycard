@@ -1,0 +1,2 @@
+# memorycard
+hi from algoritmika
